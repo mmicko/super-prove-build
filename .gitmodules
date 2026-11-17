@@ -7,21 +7,28 @@
 [submodule "pyzz"]
 	path = pyzz
 	url = https://github.com/mmicko/pyzz.git
+	branch = python3
 [submodule "pywrapper"]
 	path = pywrapper
 	url = https://github.com/mmicko/pywrapper.git
+	branch = python3
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/mmicko/pyabc-cmake.git
+	branch = python3
 [submodule "pyliveness"]
 	path = pyliveness
 	url = https://github.com/mmicko/pyliveness.git
+	branch = python3
 [submodule "pyaig"]
 	path = pyaig
 	url = https://github.com/mmicko/pyaig.git
+	branch = python3
 [submodule "pyabc"]
 	path = pyabc
 	url = https://github.com/mmicko/_pyabc.git
+	branch = python3
 [submodule "super_prove"]
 	path = super_prove
 	url = https://github.com/mmicko/super_prove.git
+	branch = python3

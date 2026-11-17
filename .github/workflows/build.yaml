@@ -4,7 +4,7 @@ jobs:
 
   build:
 
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
 
     steps:
 
@@ -13,7 +13,7 @@ jobs:
         submodules: recursive
 
     - name: install required pacakges
-      run: sudo apt install -y ninja-build libreadline-dev zlib1g-dev python-dev python-setuptools python-pip python-wheel
+      run: sudo apt install -y ninja-build libreadline-dev zlib1g-dev python3-dev python3-setuptools python3-pip python3-wheel
 
     - name: Configure CMake
       run: |
