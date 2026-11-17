@@ -6,22 +6,22 @@
 	url = https://github.com/berkeley-abc/abc-zz.git
 [submodule "pyzz"]
 	path = pyzz
-	url = https://github.com/sterin/pyzz.git
+	url = https://github.com/mmicko/pyzz.git
 [submodule "pywrapper"]
 	path = pywrapper
-	url = https://github.com/sterin/pywrapper.git
+	url = https://github.com/mmicko/pywrapper.git
 [submodule "cmake"]
 	path = cmake
-	url = https://github.com/sterin/pyabc-cmake.git
+	url = https://github.com/mmicko/pyabc-cmake.git
 [submodule "pyliveness"]
 	path = pyliveness
-	url = https://github.com/sterin/pyliveness.git
+	url = https://github.com/mmicko/pyliveness.git
 [submodule "pyaig"]
 	path = pyaig
-	url = https://github.com/sterin/pyaig.git
+	url = https://github.com/mmicko/pyaig.git
 [submodule "pyabc"]
 	path = pyabc
-	url = https://github.com/sterin/_pyabc.git
+	url = https://github.com/mmicko/_pyabc.git
 [submodule "super_prove"]
 	path = super_prove
-	url = https://github.com/berkeley-abc/super_prove.git
+	url = https://github.com/mmicko/super_prove.git
